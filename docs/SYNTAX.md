@@ -1,4 +1,4 @@
-# BS-Lang — Syntax Guid
+# BS-Lang — Syntax Guide
 
 Yo, what's good? Ready to yeet into the wild world of coding syntax? This guide’s got the tea on how to slay those lines of code like a total stan. No cap, syntax is the vibe that keeps your code from being a hot mess. It’s like the rules for flexing your programming skills—get it right, and you’re serving looks; mess it up, and it’s giving big "error 404" energy.
 
